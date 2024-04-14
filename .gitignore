@@ -1,1 +1,5 @@
+# Synthea file
 synthea-with-dependencies.jar
+
+# Raw data directory
+data/raw/
