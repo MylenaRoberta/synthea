@@ -1,0 +1,732 @@
+ENCOUNTER,NUM_CONDITIONS,CONDITIONS
+8798d7f0-4902-581f-2995-e3a022e62e6d,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+a028c6e9-dd5f-ea66-7e05-872ee839ecbc,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+9b687a55-12f2-bff6-d36d-94caef37c6f3,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+9b2e1576-df94-cc0a-c40f-497da59a3d61,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+9aa70fb7-2b48-480f-9f1f-3d9041b15778,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+9aa38495-f99a-6bd4-dda0-6b1898d8be31,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+999362b8-c88c-1567-fc4a-c6285a853bf7,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+9963bd42-ff48-990f-27ca-d8cb511c717a,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+97389ef2-9b05-a979-948e-218690eba408,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+96e5c65d-06db-e0e5-78f3-9f48930b6f37,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+950264bd-cfce-2c8f-13f7-a4d9da7db793,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+93b60919-f00c-e4d1-b80d-d181fd90b4d6,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+9007641c-ecfe-ba83-6839-5c50700445c1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8de5bd72-0914-59f0-3bd3-003653dce565,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8d6ae079-f206-0ec9-79e2-799871e39287,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8c94b2b7-2c44-b4e1-8994-fed601194553,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+8be8fe33-377a-5ae1-0f12-2bbe7abd7afe,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+8bc456f5-fc05-5b93-52c0-c89b3a7854a4,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8b4080e5-06f5-a8d0-3f49-cf9013212aa8,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+9e8f90ec-97fe-c1e9-8b81-630c04da82c5,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+a16321b7-5f2f-7490-dd74-dca6e9c3cd43,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+89e29bcc-71ec-054e-0e40-713b2ea36789,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+a2af639a-acb0-2dd2-de00-953305284b95,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+b2f449a5-5c88-dd56-9372-9c3deca9273f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+b2cf4693-1d90-7caf-e2b0-3a940a08aeea,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+b06afaba-8326-a375-dd6c-0dbbab4917f9,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+b02d4835-1fda-9fb1-1693-0429f6fb6bc1,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+aee958d3-482c-7381-3522-23d78430340e,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+aebc0228-7577-67a9-1b4c-778a827ff6cd,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+acfb1cef-8a08-27da-845a-5c1b567ae815,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ac1efa96-7625-0b55-519b-a7654e9d2961,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+abe696d9-7023-d5db-4853-db867e80b2f0,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+abdfcef5-4f09-a918-f220-550e29f7cab2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+abadcd73-5768-c04c-1e93-83e7d37d5966,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+a7e04639-3042-4c14-4c23-05d0554ccafa,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+a75f3b9a-7455-1861-6745-12ee0f302d20,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+a589c7af-5df5-df34-0b6e-bd88d791b64c,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+a54e1599-5945-755d-69dc-533efcbd055f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+a51f5f25-0d6c-c534-cbf8-01e6c5893db3,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+a2d19e17-9bec-20db-598e-38e10e0799dc,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+8a14f910-f668-71ea-57f0-e467d72dfb82,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+895033e1-07b9-e78a-66c5-ae170875b284,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+b58b7ac2-7d04-5fbe-6622-75091780be01,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+7752eba1-86a3-4866-69fe-b4ff8fada1e7,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+72624652-c45d-b976-af87-83f3c008c148,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+71352795-fb67-0eff-73d6-10ecc5db8a1d,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+70ecdfb0-4ac8-6f34-308b-3d92580da6c0,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6f9b0acb-8501-f8ca-fea3-96eb2ddfc1d7,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6e209023-c417-65e1-3ba3-ef7dc9a5c5b2,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+6df3fe66-c46c-c74c-0d54-606c8ac4f57e,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6d292409-fa0e-8693-9514-95c85139f3e5,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6ce42647-1105-31dd-14d8-e59617a961c4,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6c8fd3f4-b6d5-dada-4b22-e84ae72cfa3f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6bb733bc-0de8-4498-e41d-21e6e97dfc26,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6a90e0ba-a034-4a87-af98-9f40c6e89438,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+69f36314-a3bb-955e-78cb-454e20979dcd,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+68027388-aec0-c39b-422b-c3f9e35a451d,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6742a24d-bfb4-902d-254b-0bb340a19c0c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+66acf455-522e-1eb9-9048-63519d709f5d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6636c502-64ad-d50a-91cc-9f13854f19f7,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6594b953-290d-10e1-fb7b-cb8d395f9790,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+74332ce2-8949-406a-b984-97879773e94c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+78623df1-db37-a9b0-7a58-a84f403c0b3f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+87a856f8-5031-ecb4-ee4b-a2ad053b029e,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+78a6b656-f835-7914-2b8b-3c37c83d123a,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+02aa36cf-0f8d-7da9-e3f3-a1d06ca2a14b,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+873b53eb-03b5-0066-acbc-4a39e366b2ba,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8703702e-7d11-9585-dd77-c516fa176123,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+8638344a-25df-5186-e1ec-71d90a3d86ef,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+84252a28-b13b-2a4b-e332-a555b7778e9c,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+83b1047d-8b30-4f5d-0b66-a812a210ebab,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+82aed992-ab0d-a996-a46b-52485b4b8910,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+8170e9e5-27bd-4212-f961-db6b3cec3090,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+816d65d5-f500-7f6b-66cc-70e3449f3f7d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+812c4039-4230-cef6-e1c3-cac38e35c21e,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+7ebc962f-8cf2-ea5f-9920-f02c25dcbe13,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+7c485ba3-6ecb-a9d7-cbf7-5033cf6c5fd7,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+7b5be2b2-0969-0cdc-8b78-b7bdc8595856,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+7a414a92-a8d4-98b4-c443-12b0e1dff05e,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+7a2cfbfd-c07c-3bc1-77c4-08198b2ea0f1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+794e9732-6335-a65b-9805-ffd5bcc28b27,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+78b6c3da-6509-af57-2edf-ef377afe633e,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+b4045599-a96a-6dbf-62de-ac02821ec39c,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+b7d98178-ff42-59e8-1c78-6232d9e5b199,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+650d57ed-e58d-7439-f1fd-a3bae8295852,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ecdec92c-744a-1b99-afb2-457224c8df81,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+ebedcce0-6468-f11a-210b-28d27e8689e3,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+eb0b0571-244f-f969-3fbb-a4acd63982c2,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ea17604a-84f5-8031-f958-317f496c754c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e70fe71f-2a34-a475-60cd-7b4f08952215,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e67d602a-e52d-2283-97b4-6f3582ea4535,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e5e08675-1b7f-cdf4-6081-0cb4e58f827d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e4531ed5-9b04-788f-8e33-fcfa2f50fa82,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e340a760-83aa-a2ca-cfee-78bd9723984f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e2b27195-2ed1-c499-dcc4-b566f2feab86,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e07a7a35-c0b5-1a41-3c8f-a338771e7518,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+e00b88ff-4c37-852a-74a1-4b4987adcabe,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+dfe59b09-c893-6689-62ab-d849575d64e4,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+dd28c7d2-9e9d-600a-84af-1445e781be07,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+dc142aef-f2b9-c6ff-a3f4-c357d25235ce,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+dbb41c36-7ad8-3fec-40f2-107f75339cba,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+da33b63f-1c69-755a-5945-68d409b64699,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d8d9efe8-28e3-ca89-e861-fadeb5122452,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+ecb16f3d-a074-f11b-8c32-4fcdd47bc4a0,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+eead0f95-281a-8823-3784-b2596253bff3,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d8b3e018-3389-1220-e52e-8ac226048f21,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ef0ef209-1049-4846-f9b5-26b76e4c2d47,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ff014742-94fe-d3d9-5023-58af84b3e787,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+fe218a9f-e4aa-9883-9674-8e11a59d29b8,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+fca343f6-27f4-0500-d924-5296bf364435,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+fb1b3578-1b00-663e-28b7-e1d4750995ee,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f9f12bb3-a515-5e80-a98a-53326ab40c87,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f96223fe-a10e-4864-d6d8-3f0812873365,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f92d3c2e-d29a-6859-556a-de5b62f2d405,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f852f324-aca8-bcd4-0c75-cd78d1818865,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+f793a577-b248-624f-734d-4ac395aba7e9,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f59dbb54-e1c4-6d9b-00bf-5fe3da77b911,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+f40d1e52-73c8-2207-bcb3-dd307af3f42a,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+f3d5814a-2f5d-0e79-55ff-5da0e39cb18b,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+f319593b-54a0-1a3d-8d84-3cf3ee01a83f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f24fa6b4-149f-12ad-aa06-1891b886fa52,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f221d19b-db1f-6ae5-e5c2-71b6046757c6,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f185412a-2c5f-bcd1-32f7-d39f7199c08b,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+f02ab130-c4df-b835-9f12-10f298963d1a,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+d8beeaac-cc71-d356-10b5-9d2e360efba3,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d7e6bd0c-1a08-5706-2004-7cec76ef646c,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+b8b64371-fb85-ed01-2a17-fb8619313aee,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c7763eae-3377-dbc3-af2e-412975109fe5,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c67dd031-fd82-cbc0-5263-cef1c3a099a1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c61417e2-fe57-14c4-111f-4df1e6ecdab8,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c490ccba-f679-ca69-5393-1c03225f8062,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c40dd3da-6264-be4b-b70c-887636fb8901,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c3d3afcb-5090-cc5c-7ae2-0dbccf10fe86,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c3b6a697-92d5-d57a-c6f2-d1a646ee278f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c3667e72-b5ac-37ad-d3c9-8da49c6b7f95,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c20af716-6e71-4d66-fab6-4960fde705a2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+c1c9961a-d57e-9dcf-329a-582426e8080f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c1201d3e-c447-9473-84ee-2d39a9aa8f9f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+bf236bc4-8fc4-362a-50ce-558731290fec,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+be6b1765-210b-4909-b3ed-be631b326afa,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+bde4d2b1-414b-43fa-09a3-97f2017c8434,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+bd327e08-ea54-11dc-aaeb-c8bed4f5ee37,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+bd05a1b1-315c-9a9a-fda3-b52009dd9763,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+bb54a389-4ea4-3b6b-97ed-ddaf09367fa5,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+b971d988-803a-feca-f34e-def2ba6270d2,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+c698841a-56b4-e214-2d90-37d8e36f28d4,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c8bdbc48-bab3-8590-ef52-633b868db821,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d7d794c6-1d2f-db34-9720-725af6145db7,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c96decfb-bfa0-83b8-2bc8-ed05fe156088,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+d7a3124e-4b07-4470-2df9-bb8b5d0cf95b,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d63abd7b-f85f-4f80-929d-efa6666c93f8,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d5a1c2a0-960e-6baf-5b50-5fb557448a4c,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+d3bf8c68-0fad-e998-b119-d500ef10107a,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d3141e96-3af4-9d91-3305-025595853a58,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d2baa672-8dec-8c24-fb1c-fe00279df828,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d2409c15-ee66-4215-cb78-231128a23e18,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+d22a156c-b482-ac01-9768-9a2074f55e4f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d15a42ea-e767-aa5e-c277-49588ff61268,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+d126663f-94d9-6981-96c1-3ade9e3edcb2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d0834e93-6e63-8122-228a-fca5ea128b1d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d01e8f1d-f79f-ee82-8109-f455294da736,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+cf06b3c5-8b66-eb28-ce07-76c6c7daab84,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+ce81b2e3-e621-40ef-370b-ddfa66a12545,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+cd79b570-9a2b-4855-7740-626a8fb1e2c2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+caf5a4af-a166-776d-2a0b-6c9e7b2b65db,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+c9ce2d93-2253-5e95-c2aa-94a411e623ad,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6576a89e-d8a5-ee14-a708-b8f72cfd1d80,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+ffb80479-adc0-5850-5777-42a716f33a70,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+353bb9e6-28da-92bb-0b1f-c5d20d75b391,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4a9e4eb7-3cae-520d-dfbe-8696ff5574fa,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4366f121-2ebb-2b05-ecb5-3a2b2e0e1ba7,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+1cf07302-2b18-77af-c607-920cbe01a4eb,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+43a75c7b-482d-a1ef-cc5d-712a05a2c7a4,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+1c4a2a21-d237-d27e-8420-3e2540702d32,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+465dceea-fc96-b28c-1d30-74ecfd234c07,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+1c470bed-651f-1bbe-6f41-d9913e4ba810,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+47227388-99e4-c390-d358-c3518f99e239,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+1c39d227-e11a-6391-decd-17c9d9d03bbd,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+1974e22f-8a88-fffa-a39d-e915878ecf97,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+47fb2c75-ef72-26f5-da16-b13eb555ab39,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+4896ff31-f285-8d79-5a83-734e9c96e1a2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4993822f-dd05-f99d-bf7e-f7a38f1b03a9,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+18ddbd21-2013-3fde-7cda-d9a6e51c5d28,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+49f5db11-4ed3-1e51-d539-c4245baa3944,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+16f922c9-d38b-37be-1774-8d969243343f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+558ea427-3ede-3f8b-f8c5-ec6861e0f222,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2d58aeb7-2651-1238-1ffd-de7fa57da95d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4cb91679-92e6-329f-eec4-fbf60bdb5de4,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+15ba6486-76cf-20c1-9661-d52293c622b4,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4d410add-f8f3-885e-2bfe-1c5f15a54203,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+4dc636f1-f457-956d-4211-4b3c784f0fd5,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+13c432d5-7912-bd0b-13bf-46c957f8f8b1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4dc9e232-0a76-b21b-b093-c619eb3f4c27,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+4e9ce551-4abe-b508-cee3-d7f3d313ee07,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+4efab7aa-e4b0-c278-8b46-c884829f6877,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+520f70cd-200c-d3c4-c6ad-52d9f86381f4,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+52c86f49-6c78-62ab-263a-d725aee11025,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+52dc006d-711d-18f2-4b7f-61df73fc853f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+531aeca2-d575-4efa-ec2f-b4a72dfaa52f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+539b00c9-25c6-febd-ed8b-8cc6aacbee97,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+42ec3a06-6573-a30f-ab24-15493a6d2bc7,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+1dd861d3-a16b-3047-a8d7-abf6cdd0aba5,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+2108769e-0983-69bc-59ef-41b9f3afa814,2,['Myocardial infarction (disorder)' 'Preinfarction syndrome (disorder)']
+3fb3dcad-0905-f953-99ae-dada05fdeb47,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2f0fc889-2128-c3a5-0f1f-6768704fded2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+2ff9c7c2-cff5-7bdf-a76f-109f6b344733,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2c944847-2494-c192-9501-abccbbf556f6,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+307ba864-3131-7cde-6f6b-676fd60703e3,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+30d33a52-eda3-d6bf-bad9-53d1e9ff1c3d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+3291ea4a-3c8e-5f97-f809-4d2c47a2e71f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+32a64a06-5b1e-ffde-18b2-8bc8c1820232,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+32fc3035-352c-d719-0b0e-c1c2fffe7301,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2b98b1bd-277b-9061-d70e-999a8f17c841,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+2a75841c-5952-e7e3-a110-d0db72023d98,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+29790fdf-a28c-da3e-92c3-385f7b18f32d,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+33c84337-88e2-0425-581f-3ea11f1a2ecb,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+28a31ce1-9017-6dc7-3f04-83b994ebca8c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+34f20a03-a3de-cb9c-7f35-f40135340125,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+34f72f28-ca05-7ec8-b5d0-7b29e33defca,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+282e19b7-c613-6ded-cf42-99c06ce2526f,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+2822e7d9-b230-4c6e-0a8a-236635ff04c9,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+28106f9f-12ec-a5e3-16aa-2dceed9a105c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+27ed889d-e595-1b99-9e17-d5c88d1bef88,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+275114d9-e03f-717b-7a0c-f3bf8c20b2a6,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+35f38878-391f-a81b-3fec-55dfa369d27f,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+3603363d-bb8d-755e-1eff-cf9e88e6ac5e,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+269f4957-a1af-ba80-1528-b47c0e434a76,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+39aac23f-7264-d4a1-2639-a66fe0c32151,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2637bc24-bf99-594a-602a-84cb294dbb8d,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+3ceb63ee-37d4-ab23-c6b0-fd3da7c20419,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+2428153b-e7d1-7626-b293-513599cfcad7,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+21bafeb1-228b-482d-40a5-902276fe7ac3,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+3f143f9e-7456-37ff-ee9a-ee43c8826a97,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+11d583c5-9c11-15d5-ef84-c83ccc6309cf,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+2d504b1e-43e7-dab7-57bc-ac94df7921c8,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+0b85d617-caa6-aa62-7d70-8114c9595ce0,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+5de51dde-24f4-ee52-5089-cb966e1371ab,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+6180cfa1-181b-74cd-312c-d76b4588c584,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+59f7da1e-0680-fe95-ecf7-02f516c2f12b,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+0947194d-888e-5ee5-3cd6-feec10f53227,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+5d522424-723f-3023-b62c-9762fca9c889,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+053dff82-8641-83ab-5baa-ebcff4ebd555,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+58aa8866-82ef-eeab-0bb0-5d77b6f48c1b,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+092d9871-d219-f008-e9da-cbb6345791d0,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+03fe0412-6dfa-2073-d16c-c2605f1396e7,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+589be868-0ed9-7dc2-9af4-8ec8ece692a3,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+0b96beba-5a75-6789-e9c2-ac7617e7556a,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6111d344-3642-b033-d1c8-720c930fe0b6,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+6264c2c7-f69b-4d1d-28ca-5f2b53bd7971,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+5fe88317-5f07-4ee6-32eb-30fbb13584da,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+0ca6bb12-a80f-f2f2-290b-69f1ee916479,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+61992cd6-3bfc-693d-7836-34a8bb54ed5e,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+626b049d-ce09-239c-b338-8766a01f4fb2,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+5dfe9c5f-3502-171b-9262-b3ccd684872c,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+033dc170-f80e-b265-4382-1a0191e583c1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+5fc4c43f-934e-f458-5488-50751892b5d3,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+56816165-adef-b443-777e-853a9f16d343,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+5716eae9-eaea-52a9-0d85-e600755778f0,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+5ebc66bf-b717-c0af-ba6c-8f6d64e61b94,2,"['Myocardial infarction (disorder)'
+ 'Acute ST segment elevation myocardial infarction (disorder)']"
+56d56fa2-e188-8440-6b16-526b235131f1,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+56c17b65-6836-a956-4402-43876cc5f26c,2,"['Myocardial infarction (disorder)'
+ 'Acute non-ST segment elevation myocardial infarction (disorder)']"
+d14a4a6b-71ea-dcdc-674d-a25578189166,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ce3d32de-888b-bf2e-014d-b0ac4ce94c34,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f7fc280e-a89e-fef3-47eb-b55edc1e56d9,1,['Acute ST segment elevation myocardial infarction (disorder)']
+2531327b-14e6-3960-8945-ff5272a90f88,1,['Acute ST segment elevation myocardial infarction (disorder)']
+254f38c2-b76c-0290-37ca-45cefcd8126e,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+cfb48efe-c691-f8dd-50ce-91b3325ab49f,1,['Acute ST segment elevation myocardial infarction (disorder)']
+f76d579a-23ee-9401-7ba9-9805b2a8e9d8,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+27a7c9f2-d398-9752-20e5-19248b1f0987,1,['Acute ST segment elevation myocardial infarction (disorder)']
+f7c2f5ba-2872-1d9a-6412-0b11eb2af8e4,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+cdb4cf77-4943-5124-e024-4a87f612feca,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+d1865fce-7a56-514b-2f08-f2ca233f36ee,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+d1e322c5-2b50-af3c-cb8e-b2931be1996c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+27977e3a-bab9-00cf-ea73-406a38991002,1,['Acute ST segment elevation myocardial infarction (disorder)']
+d1d0742e-88b8-8d2a-e6f4-0217fa25d0f8,1,['Acute ST segment elevation myocardial infarction (disorder)']
+05b8eb6c-bc1d-b58f-c07e-bb261725413a,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ea5f655e-381a-1636-155d-490b2b472a68,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+cb561f41-6fe4-8b76-1b21-fb4d639990dd,1,['Acute ST segment elevation myocardial infarction (disorder)']
+03a6dd4b-624a-5b4e-2e29-3df18119094d,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+2d380e92-836a-7137-8f9f-9dc32a484779,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+031e76d1-1e1e-5612-8568-8ca9acf49b38,1,['Acute ST segment elevation myocardial infarction (disorder)']
+c4c4869d-6874-1cb3-02ef-b92b44261f69,1,['Acute ST segment elevation myocardial infarction (disorder)']
+c4f601fb-022f-367f-1fba-4057d7a036a8,1,['Acute ST segment elevation myocardial infarction (disorder)']
+038b08ec-1d16-6a4c-b434-a434a60c688b,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c632ada0-49af-ba69-5b82-93b63c9a8425,1,['Acute ST segment elevation myocardial infarction (disorder)']
+2c0a07d6-6fb3-efaa-d41f-2490c975da88,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+fc4f57e9-b58c-a3cb-046d-229987335a44,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+fbf72b8d-421b-274d-bb47-43c648307c62,1,['Acute ST segment elevation myocardial infarction (disorder)']
+fb8a1b4c-a459-181e-1507-74f463859352,1,['Acute ST segment elevation myocardial infarction (disorder)']
+2bc697bd-dbc2-3b96-4883-a1a22d1c9a8c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+055bb4ab-3f7b-5de1-6d6c-633d51fcc814,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c7ecbdca-25c9-9b72-896c-7d5be4f7b148,1,['Acute ST segment elevation myocardial infarction (disorder)']
+c896759a-f810-34f2-a3c2-20a0b66826e8,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+fa6bc716-90f9-55f6-e0cf-109a002853e6,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c92c67ac-7431-4755-db76-e2ee173c1f3f,1,['Acute ST segment elevation myocardial infarction (disorder)']
+0525aab3-3cc0-e805-977f-7f0cf9a3e144,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f864c9f9-8169-b9ee-1fec-cef171e6cfd0,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f70c045c-1e2d-4cd4-a36a-6dace1a023fe,1,['Acute ST segment elevation myocardial infarction (disorder)']
+f85e7dd0-543d-1e16-42bb-f3bcf190e323,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ca38324e-b355-24f7-6e87-2f3a21c5f967,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ca47fe23-a7d6-75cc-da19-96ab65a1fe5f,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+248bba6a-5c3f-8c11-5055-d7584595143b,1,['Acute ST segment elevation myocardial infarction (disorder)']
+d66e261c-6fec-f198-eb91-bb42ad64f9bb,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f6fe6203-41df-35df-c242-2b541059b9e9,1,['Acute ST segment elevation myocardial infarction (disorder)']
+0fa4b61b-6af0-dd76-5512-4060fdeda522,1,['Acute ST segment elevation myocardial infarction (disorder)']
+e2aff2a3-232e-5571-4e3f-c9ceb283ed03,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+1786e022-686d-1064-b199-040ceb19eb34,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e2c458ff-6144-27d1-9fc7-475369fd2e79,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e33f03c5-b344-e562-f598-ea0c4928f4ac,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ef30c41c-a5bd-cf08-a894-676f7822a24e,1,['Acute ST segment elevation myocardial infarction (disorder)']
+ef1f86f8-5f33-d68c-dfdd-a2b8535b73ca,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e47a5c5b-6f1d-61c1-6c14-64f0cf47d485,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ef03ef55-2cab-f1cb-a864-61d16d2b5e8f,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e4c98b67-2f4f-3370-6c31-734cff5bd24a,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+0bc28849-572f-2b93-62fa-aa61fc867325,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ec07a4fd-70ee-9d15-49c4-4630be3d5449,1,['Acute ST segment elevation myocardial infarction (disorder)']
+d4b9af50-2d70-38e1-e0bf-3607fe01f754,1,['Acute ST segment elevation myocardial infarction (disorder)']
+105a324d-bd77-d534-5b67-c8556019ab8d,1,['Acute ST segment elevation myocardial infarction (disorder)']
+13a70ce5-5166-66f7-6df6-dd09a994ef83,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e6ab41e9-62b6-94ad-2ba9-1bfac6010891,1,['Acute ST segment elevation myocardial infarction (disorder)']
+1324f12a-c94e-4b6d-c5eb-94c59ab527db,1,['Acute ST segment elevation myocardial infarction (disorder)']
+e72a40cc-5242-64e3-775d-229d901b0c16,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e7324bda-fa7b-91c5-fbb8-a5bed8b1b0e4,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e8e65625-d39d-96f2-0e48-271e82a2456f,1,['Preinfarction syndrome (disorder)']
+e92c13c5-86dc-3dbc-54c4-0eac89b35226,1,['Acute ST segment elevation myocardial infarction (disorder)']
+11b030d5-09bd-f633-1071-d5915c46ff8a,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+eadd4aac-e1ba-935f-7ad7-e40ebbde78ba,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+179b3b35-4827-f082-c7ff-9340a9bd5908,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+0b3f4e7c-1370-f0d5-be0b-4fdde3052d89,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+19347616-f0d6-0253-1f3d-650686255f59,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f2144e2c-2ed4-cecb-de95-35c4e7be3957,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f5c805fd-9f2e-2915-3194-84790431d943,1,['Acute ST segment elevation myocardial infarction (disorder)']
+d6110940-e09b-a35c-16e4-0c1195291839,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+06b8ed21-18ad-0868-0529-b406a16e2e42,1,['Preinfarction syndrome (disorder)']
+21acbc2e-7945-67cd-9a32-6bbb851cb10b,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ea7a5749-30ad-6597-d565-2a1ea60de505,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+1f2155ce-b398-dab7-36e1-6cd875112cc4,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+d86be9ba-c2d7-9992-8126-325217e2be07,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f55f9382-0b10-4ce5-5550-3e8227a4b52b,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f50c1d75-4b18-7491-0ef7-6abf5876ff7c,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+d87dec35-0b98-d705-5da3-57e4b7fabe76,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f4e6b8ca-1b67-af62-539d-c761de2034da,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+08f7fa73-96b8-a007-2d0e-86157fe6714a,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+1c47a0c3-5e9f-d0d2-a6e4-ca9f6c33af17,1,['Acute ST segment elevation myocardial infarction (disorder)']
+db351df3-8e50-55ed-d516-8d5e1e04ad5c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+0984979e-403b-1682-293a-dc4e010dd16b,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+f23fe8e0-e9f4-cd27-aa79-92351700adea,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+0b125c2f-d560-813c-7ae6-b4c99203c532,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+195f67bd-e293-e90c-1bb4-0ae25e4474a3,1,['Acute ST segment elevation myocardial infarction (disorder)']
+f21cef13-19fb-771c-5e16-87b20ebde881,1,['Acute ST segment elevation myocardial infarction (disorder)']
+de9f8c06-e157-5e3b-c8cd-3db7c45cc97f,1,['Preinfarction syndrome (disorder)']
+dfd8bd21-c542-5a8a-d875-b47b3f7fde68,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+e3867f2d-0f3e-01a1-f4f4-529f94499250,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+64c4451b-21b8-5f49-5830-bbaa32b78d2e,1,['Acute ST segment elevation myocardial infarction (disorder)']
+2dbfef33-763c-68d8-f2be-55655e51a977,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+93a592c3-4e23-159c-5de2-2690719edeab,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5a9b9409-79ef-01d2-7eb1-29ddd330db95,1,['Acute ST segment elevation myocardial infarction (disorder)']
+7a7b77ad-c92f-5eb7-249b-02143ebea127,1,['Acute ST segment elevation myocardial infarction (disorder)']
+7afa5f6e-cef1-bd26-259d-9f8ca0432402,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+7d07f1ac-a896-6546-d38c-9e1464abfcc9,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+7d353de7-582b-3a04-8c8f-db6368a2b595,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+7dcf9751-1134-30cb-ee2d-fcabc15f88d8,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+7df2ed07-ec71-5d15-1333-9da8419363bb,1,['Preinfarction syndrome (disorder)']
+7eac886b-859a-f736-b612-4ad20921dcbf,1,['Acute ST segment elevation myocardial infarction (disorder)']
+577628e7-c569-42b7-af1d-fa72862fb0b5,1,['Acute ST segment elevation myocardial infarction (disorder)']
+810b84e9-797c-26a4-243f-867f86a6380c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+576bbd19-94f9-0e42-ebc0-4e8879b0f631,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+81c7dff6-d8cd-4bc6-6740-46b90c14246d,1,['Acute ST segment elevation myocardial infarction (disorder)']
+55d96f04-6ad8-39e6-fc4d-5a9bafd04f1f,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+847dd90f-428e-e782-a3fb-312c65fa5234,1,['Acute ST segment elevation myocardial infarction (disorder)']
+84e41460-7c79-293e-98f2-703f45c704c0,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+8626802f-c0f6-b9a9-6660-308ac42fbae3,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+86560569-0940-ca9d-dfb6-d0c75819cec5,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5356bb14-776f-025a-efe1-9660b45133c6,1,['Preinfarction syndrome (disorder)']
+876f88f7-a36a-395d-8992-21480e809581,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5338de17-300d-42aa-eb8a-34af879f858f,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+87b1ec14-b8d3-3589-0849-72c4d34cd11c,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+8818b410-c36a-dd51-951f-4cee7a176319,1,['Acute ST segment elevation myocardial infarction (disorder)']
+881b3f9c-65a9-b54f-383e-c8bcbb7d25f6,1,['Acute ST segment elevation myocardial infarction (disorder)']
+890b9dd0-a687-7d1c-45c0-3f0963e3003a,1,['Acute ST segment elevation myocardial infarction (disorder)']
+8c13411e-cc25-61b8-9233-2814e7064495,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+4d6a7618-1e03-57f2-4b07-b2da2101bef3,1,['Acute ST segment elevation myocardial infarction (disorder)']
+8ee1c7b3-88d9-edb4-a6e3-fe81c96295cc,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+8f63cd83-abbd-8818-f9c6-2801f2e37c0c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+92187fdb-86f2-01f5-12b4-2eecd3d0acc5,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+7a077d94-5a79-50f6-61e6-653d3cd69f72,1,['Acute ST segment elevation myocardial infarction (disorder)']
+5ad8b7ca-4ab1-813f-7671-faefabc6d880,1,['Acute ST segment elevation myocardial infarction (disorder)']
+5b4881b5-c1d6-7b9d-3ac6-857b482441e0,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+61a3313d-346f-95ac-a358-3a6113eea935,1,['Preinfarction syndrome (disorder)']
+64583fbd-8e48-fb5d-2c5f-eef4bd8ac230,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+63e19719-e0e1-8326-3d1c-ab94bc5d384c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+637c2195-16c8-068d-ad39-c59919bb40b3,1,['Acute ST segment elevation myocardial infarction (disorder)']
+6316225a-640a-6269-eb6d-3299fed957b3,1,['Acute ST segment elevation myocardial infarction (disorder)']
+66a08347-355d-80e3-f408-ed25c0b310e4,1,['Acute ST segment elevation myocardial infarction (disorder)']
+66da3c25-9673-fc95-8341-28537325bd3c,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+67013524-b0d0-0d89-212b-b6a22d02ec2d,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+67dda16a-068b-d7e0-b4ec-27788d9bb39c,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+61bc9927-a3cc-b67d-e78b-567a81a34e59,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+686c0dad-0a4a-7a6d-5e0e-4dcaa595ed92,1,['Acute ST segment elevation myocardial infarction (disorder)']
+68a145b1-8c49-620a-79f3-aa35bf00b680,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+691c2264-6670-ff09-04d9-683f279dd695,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+69594191-cc7d-2743-c6c1-d890c161d08d,1,['Preinfarction syndrome (disorder)']
+6b7ef74a-c6ca-8aed-dc35-e759d3a07f88,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5bdce228-38c9-3bce-24c0-19b77e6c8eff,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+6c60798e-7338-820b-012b-fb06250f1fc5,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+60d855a9-68cc-9b1e-bb12-a17e87815f36,1,['Preinfarction syndrome (disorder)']
+5fa63ce3-58b7-d3ce-47d7-cca1ed17fae4,1,['Preinfarction syndrome (disorder)']
+6e6cc85d-9a4d-8722-2fbd-40a7ee29bfaa,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5f373d3f-e3f5-fd8e-5629-171bdd0cc190,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+6f9e43e2-84b5-f22a-a260-e4c767b84c97,1,['Acute ST segment elevation myocardial infarction (disorder)']
+6fd0680e-9533-6e5b-70c5-73e3e3bc4bed,1,['Acute ST segment elevation myocardial infarction (disorder)']
+732ad7a8-a374-575b-d840-510dc03df951,1,['Acute ST segment elevation myocardial infarction (disorder)']
+738bf32f-f25f-23ea-1cec-fd8febb4df1e,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5dd95e33-cfbb-718f-603c-ea19bd3baaa3,1,['Preinfarction syndrome (disorder)']
+7466eebf-84c1-ac9f-4bcc-d0895b1b96aa,1,['Acute ST segment elevation myocardial infarction (disorder)']
+748765ea-c8d1-e82b-cb91-9e22bbb1de16,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+5c3b24c4-77f8-52b7-fc3f-77be39adb53e,1,['Preinfarction syndrome (disorder)']
+92ee9ed3-186d-359d-088f-89ad04c13470,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+4be7b91a-7a5d-4868-eb20-aa6cdb81ed02,1,['Acute ST segment elevation myocardial infarction (disorder)']
+2e0951b2-e7fa-54e3-4db6-d5669e218c59,1,['Acute ST segment elevation myocardial infarction (disorder)']
+947adc04-5746-8682-9ceb-8c0cd68d0333,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b00d35a6-2000-583c-f8cc-68ce7225ba8f,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b08b526e-7fc5-a497-8278-c27233cc96a1,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b0ccf4f5-f75a-55d6-3954-c0b8e8f72b96,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b1b9d078-0d98-60dd-53ae-641d50a8610c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b1d7de24-9560-ef63-37e2-032b3e62210a,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+357cbc7c-065b-d118-f7b6-169f40415b45,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+355975ce-dfde-92c1-3059-4f3cc0dc3698,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b2fd6948-28ce-ded7-b1ab-9d358075bcc5,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b342fc2f-e511-d27b-8faa-30c0dc3a0487,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b367689c-cc3c-9d87-904a-6e29f7832ca8,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b3c0805b-4a82-c56f-a99e-288c5a451084,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b3d18bcf-b14c-ecbd-e22e-9af9eeafc471,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+64ec729f-e88d-c7a7-e700-91b938bc1c3c,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b48e55d5-c7ad-9810-32f6-ec73b1068446,1,['Acute ST segment elevation myocardial infarction (disorder)']
+b54a20de-c9b5-36b4-3f85-22d78f6ebf56,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+33c8780b-f3f3-3b6c-cd8d-b226b8b45d17,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+b9c886d3-fc84-8c15-68c3-879c10e3ea38,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+ba23d0ff-03d6-9b6d-1cf2-f5e3a4cc87c7,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+334b0c37-9ad2-0d57-2929-3a259e52c6ea,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+bb58908a-fe6c-2c90-33f3-fdb74cca940f,1,['Acute ST segment elevation myocardial infarction (disorder)']
+bc55c51e-fe15-a6fe-7415-b29b9f172c4b,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+bc7ca5a7-c226-cca8-c2fe-6226efa05dc6,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+bcdd25c2-fc89-40f7-fce7-4360ca730751,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c0311fc3-e56b-7744-d6d5-85dbe8769df6,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c06477da-abe1-c59b-8685-eef847f1f253,1,['Acute ST segment elevation myocardial infarction (disorder)']
+c087de74-26bd-f2fb-d0d2-13538a617b0d,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+c0e78503-bb29-8940-6292-4ad304a680cc,1,['Acute ST segment elevation myocardial infarction (disorder)']
+c198d0c2-855a-fd6f-d865-9fd5ee4281d5,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+2eea4550-5d0d-0820-b6d7-80eaf0fcda7c,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+affe16f5-cc43-ffa8-d5a3-794c6f028aaa,1,['Acute ST segment elevation myocardial infarction (disorder)']
+afd3894b-1069-d898-fd57-25379594e9b6,1,['Acute ST segment elevation myocardial infarction (disorder)']
+36167226-8678-c5b2-27d7-5bce98593193,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+a374fff9-66fa-1d67-b66b-19780d45e0ef,1,['Acute ST segment elevation myocardial infarction (disorder)']
+95595a76-6747-f95c-beb7-97f5b3a50b46,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+95ff6bb6-673d-cc6b-66b8-ae677e9f3a5f,1,['Acute ST segment elevation myocardial infarction (disorder)']
+4993d07e-aceb-2846-21c8-5e4e204dc4ac,1,['Acute ST segment elevation myocardial infarction (disorder)']
+97daa58b-d0d5-6fda-770b-e5a8ceb27532,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+4847b4cd-d729-084b-648c-8a889f04f600,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+482c39c9-8e9c-a93f-9b40-c5b313c8e783,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+472a5a3b-5713-015a-49a5-7461ed3175b7,1,['Acute ST segment elevation myocardial infarction (disorder)']
+9d92045b-4cef-aa56-fc55-9722ed31d3d8,1,['Acute ST segment elevation myocardial infarction (disorder)']
+9e7136d3-ab22-c70d-0d93-be35d1be74e0,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+9ef55565-47d0-cfca-904a-31469dd6a9b6,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+9fd02be8-1b47-820d-88e4-f94373b57de8,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+46096433-f3cb-60ad-b334-672657eaaff5,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+454fe757-94ef-43fe-e368-8a202768b38d,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+a3ca560a-d1ee-1828-e675-cd93fbd7141b,1,['Acute ST segment elevation myocardial infarction (disorder)']
+adb82c2f-f58a-583b-0474-51c83eca5299,1,['Acute ST segment elevation myocardial infarction (disorder)']
+a5589027-cd43-1eb1-16f4-bdf8a848d9f6,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+a5590937-d6e0-8df4-8a7f-b839394b9553,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+42889daf-9975-5f07-01ae-a09134b1dbb4,1,['Acute ST segment elevation myocardial infarction (disorder)']
+a5e14127-3096-6ec0-b706-29c1300f6596,1,['Acute ST segment elevation myocardial infarction (disorder)']
+a66b4d04-426b-c8dc-30ac-a927d056a9e1,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+a6a93a88-1354-d07a-ef63-2b461d620194,1,['Acute ST segment elevation myocardial infarction (disorder)']
+a938ea5d-64cc-d22a-2add-74fdbb6d1ebc,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+aa628b14-7ea7-334f-c87f-16d18dac43d3,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+3ee61c68-29a4-ad4f-7329-33943993a89f,1,['Acute ST segment elevation myocardial infarction (disorder)']
+3d26dc12-af0d-3b94-0eb6-2c60c932cf20,1,['Acute ST segment elevation myocardial infarction (disorder)']
+3c7f0b2e-6189-da1b-fbae-ac2cd1ececb8,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+3ae05fe2-aef6-f978-27cd-96028759b6ed,1,['Acute ST segment elevation myocardial infarction (disorder)']
+ad7269e6-9e30-7ac1-bf8e-421e31c09ee2,1,['Acute non-ST segment elevation myocardial infarction (disorder)']
+01a3790a-93ee-7d22-8dae-1fe780be02fb,1,['Acute ST segment elevation myocardial infarction (disorder)']
