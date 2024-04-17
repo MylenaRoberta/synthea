@@ -3,3 +3,6 @@ synthea-with-dependencies.jar
 
 # Raw data directory
 data/raw/
+
+# Processed data directory
+data/processed/
