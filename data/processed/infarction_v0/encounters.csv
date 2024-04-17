@@ -1,8 +1,0 @@
-Id,START,STOP,PATIENT,ENCOUNTERCLASS,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
-04e9670b-16ed-6298-fdd4-7578e961383d,2004-10-03T21:28:17Z,2004-10-03T22:28:17Z,79666e1b-425b-2dbb-0307-fb33a249d6fe,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-20c8d9b1-4e65-ea9b-e86e-9fb8a817464d,2021-09-09T18:34:16Z,2021-09-09T19:34:16Z,7096e0ff-c20c-1fcc-d99a-dcddaf0b8e8e,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-b971e644-bc66-c229-7364-59225516fc9c,2011-01-14T01:35:05Z,2011-01-14T02:35:05Z,591cb472-5624-06c9-2181-3ea9aedd7705,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-3147f999-8f08-8375-4ac1-bedff7e66c13,2008-12-02T22:21:10Z,2008-12-02T23:21:10Z,539d45b1-c5b3-c868-5125-5a440249b3e9,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-e3bf4a26-38d3-aedf-ff71-c4cd94bfabc2,2007-03-22T21:28:17Z,2007-03-22T22:28:17Z,88f0fdfb-339e-917d-49a9-0dd25a881352,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-35cea79e-0504-95c2-2866-2b4e6b625966,1994-07-12T11:18:02Z,1994-07-12T12:18:02Z,91e20e45-2171-9c64-6155-b1b86cf08573,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
-3acafbcb-9337-a3c8-92b8-3f986dec7d4f,2006-03-11T11:18:02Z,2006-03-11T12:18:02Z,7b2683ff-ad72-a3f3-786c-a6dcdfd2fedb,emergency,50849002,Emergency room admission (procedure),22298006.0,Myocardial infarction (disorder)
